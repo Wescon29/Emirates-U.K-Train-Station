@@ -42,9 +42,3 @@ Using Microsoft Excel, I built an interactive dashboard that highlights:
 🔽 Check out my dashboard below!
 
 ![](Emirates_UK_train.jpeg)
-
-If you're in the data space, I’d love your feedback.
-
-Are there other insights you would dig deeper into?
-
-#DataAnalysis #ExcelDashboard #CustomerExperience #DataVisualization #MicrosoftExcel #ExcelProjects
