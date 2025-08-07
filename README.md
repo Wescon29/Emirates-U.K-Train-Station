@@ -39,6 +39,4 @@ Using Microsoft Excel, I built an interactive dashboard that highlights:
 🔧 Tools Used:
 📊 Microsoft Excel
 
-🔽 Check out my dashboard below!
-
 ![](Emirates_UK_train.jpeg)
